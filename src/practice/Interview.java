@@ -1,6 +1,6 @@
 package practice;
 
-public class InterView {
+public class Interview {
     public static void main(String[] args) {
         //Scanner scanner = new Scanner(System.in);
         String x = "AB";
